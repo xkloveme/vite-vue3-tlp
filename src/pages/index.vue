@@ -13,6 +13,22 @@
         >
             Save
         </v-button>
+        <button class="btn">neutral</button> 
+<button class="btn btn-primary">primary</button> 
+<button class="btn btn-secondary">secondary</button> 
+<button class="btn btn-accent">accent</button> 
+<button class="btn btn-ghost">ghost</button> 
+<button class="btn btn-link">link</button>
+<a href="#my-modal" class="btn btn-primary">open modal</a> 
+<div id="my-modal" class="modal">
+  <div class="modal-box">
+    <p>Enim dolorem dolorum omnis atque necessitatibus. Consequatur aut adipisci qui iusto illo eaque. Consequatur repudiandae et. Nulla ea quasi eligendi. Saepe velit autem minima.</p> 
+    <div class="modal-action">
+      <a href="#" class="btn btn-primary">Accept</a> 
+      <a href="#" class="btn">Close</a>
+    </div>
+  </div>
+</div>
     </div>
 </template>
 
